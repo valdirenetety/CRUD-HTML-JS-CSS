@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\cadastro de produtos JS"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "CRUD-JavaScript-main"
+  }
+}
